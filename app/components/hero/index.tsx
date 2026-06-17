@@ -5,6 +5,7 @@ import { Text } from "@react-three/drei";
 import { useProgress } from "@react-three/drei";
 import gsap from "gsap";
 import { useEffect, useRef } from "react";
+import { isMobile } from "react-device-detect";
 import * as THREE from "three";
 import CloudContainer from "../models/Cloud";
 import StarsContainer from "../models/Stars";
@@ -30,7 +31,7 @@ const Hero = () => {
 
   const fontProps = {
     font: "./soria-font.ttf",
-    fontSize: 1.8,
+    fontSize: isMobile ? 1.0 : 1.8,
   };
 
   return (

@@ -1,0 +1,20 @@
+User-agent: *
+Disallow: /_next/static/chunks/app/
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+Sitemap: https://shreyasgarg.dev/sitemap.xml

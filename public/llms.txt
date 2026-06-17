@@ -1,0 +1,26 @@
+# Shreyas Garg
+
+> Builder at the intersection of AI, music, and creative technology. CS at BITS Pilani & Scaler (SST).
+
+Shreyas Garg is a developer and builder based in India, working on AI systems, creative tools, and research. Currently a student at BITS Pilani and Scaler School of Technology (2023–2027). AI Research Intern at IIIT Delhi (Feb–Aug 2025).
+
+## Career
+
+- Feb 2025 - Aug 2025: AI Research Intern — IIIT Delhi
+- Jul 2024 - Feb 2025: Intern — Mythyaverse
+- 2023 - present: Computer Science — Scaler School of Technology
+- 2023 - present: BITS Pilani
+- 2022: High School — D.P.S.G.
+
+## Projects
+
+- **Leniency Bench**: Open benchmark for evaluating leniency and alignment boundaries in large language models across adversarial prompts. https://github.com/shreyas-garg/OpenEnv
+- **MedSight**: AI tool that evaluates medical reports and simplifies complex findings into clear, actionable language. https://github.com/shreyas-garg/MedSight
+- **Hail Mary Game**: Survival strategy game inspired by Andy Weir's novel. https://github.com/shreyas-garg/Project_Hail_Mary
+- **NeoHire**: AI interviewer that runs dynamic technical and behavioural interviews. https://github.com/shreyas-garg/AI-interviewer
+- **SideQuest**: Community space for builders to share side projects. https://github.com/shreyas-garg/Sidequest
+
+## Links
+
+- LinkedIn: https://www.linkedin.com/in/shreyas-garg-569036287/
+- GitHub: https://github.com/shreyas-garg
